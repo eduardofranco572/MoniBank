@@ -7,7 +7,7 @@ Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de Font
 <br>
  <div align="center">
     <h1>Site do Projeto:</h1>
-    https://eduardofranco572.github.io/PlayStation-Dashboard/
+    https://eduardofranco572.github.io/MoniBank/
    <br>    
 </div>
 <br>
